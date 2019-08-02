@@ -1,1 +1,66 @@
-# Predictive-Modeling-with-Scikit-learn
+# Northwestern Research Computing Predictive Modeling with Scikit-learn Workshop
+
+## General Info
+
+General information about RCS Python Workshops can be found in the [Python Workshops Repository](https://github.com/nuitrcs/pythonworkshops).  This includes information about software installations and general Python resources.
+
+## Prep
+
+Please install Anaconda as it comes with everything that we need in this workshop. We will work from Jupyter Notebook!
+
+[Python Installation Instructions](https://workshops.rcs.northwestern.edu/install/python/)
+
+## Downloading Files
+
+### Recommended: Entire directory
+
+You can download all of the files by clicking the green button above and choosing "Download ZIP."
+
+### Individual Files
+
+**If you download files from the links above, you have to click through to the RAW version of the notebook and download that.  If you download directly from the links above, the files won't open because they are web pages, not the raw files.**
+
+On a Mac, to open the files in Jupyter Notebook, start Jupyter Notebook from the folder where you saved the files.  On Windows, navigate to the directory within Jupyter Notebook.
+
+## Predictive Modeling with Scikit-learn Workshop Overview
+
+### Objective of the workshop
+
+To know how to use the main algorithms needed for predictive modeling with python/scikit-learn.
+
+### Learning outcomes
+
+* How do I use ScikitLearn to choose which attributes of my data to include in the model? 
+* How could ScikitLearn help me choose which model to use? 
+* How do I optimize this model for best performance? 
+* How do I ensure that I'm building a model that will generalize to unseen data? 
+* Can I estimate how well my model is likely to perform on unseen data?
+
+
+### Resources
+
+General scikit-learn resources and more specific tutorials that cover multiple topics can be found on [Scikit-Learn Website](https://scikit-learn.org/stable/tutorial/).  
+
+Additional Predictive Modeling-specific resources include:
+
+[Data Science Central](https://www.datasciencecentral.com) - A great online group of data science enthusiasts where you can find everything related to machine learning, predictive modeling, data science and more.
+
+[Coursera](https://www.coursera.org/), [edx](https://www.edx.org/), [udacity](https://www.udacity.com/) courses. I would strongly recommend Andrew Ng's machine learning courses. 
+
+For preparing notebooks in this workshop I used notebooks from Scikit-Learn official Tutorials and workshops and from the following resources:
+
+[https://stats.stackexchange.com/questions/10289/whats-the-difference-between-normalization-and-standardization](https://stats.stackexchange.com/questions/10289/whats-the-difference-between-normalization-and-standardization)
+
+[https://github.com/ogrisel/scipy-2018-sklearn](https://github.com/ogrisel/scipy-2018-sklearn)
+
+[https://scikit-learn.org/stable/modules/impute.html](https://scikit-learn.org/stable/modules/impute.html)
+
+[https://www.geeksforgeeks.org/regression-classification-supervised-machine-learning/](https://www.geeksforgeeks.org/regression-classification-supervised-machine-learning/)
+
+[https://ekababisong.org/gcp-ml-seminar/scikit-learn/](https://ekababisong.org/gcp-ml-seminar/scikit-learn/)
+
+[https://www.analyticsvidhya.com/blog/2016/07/practical-guide-data-preprocessing-python-scikit-learn/](https://www.analyticsvidhya.com/blog/2016/07/practical-guide-data-preprocessing-python-scikit-learn/)
+
+[http://www.biostat.washington.edu/~dwitten/](http://www.biostat.washington.edu/~dwitten/)
+
+[https://www.quora.com/Which-machine-algorithms-require-data-scaling-normalization](https://www.quora.com/Which-machine-algorithms-require-data-scaling-normalization)
