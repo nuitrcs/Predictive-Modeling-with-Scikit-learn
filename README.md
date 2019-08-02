@@ -37,7 +37,7 @@ To know how to use the main algorithms needed for predictive modeling with pytho
 * Can I estimate how well my model is likely to perform on unseen data?
 
 
-### Resources
+## Resources
 
 General scikit-learn resources and more specific tutorials that cover multiple topics can be found on [Scikit-Learn Website](https://scikit-learn.org/stable/tutorial/).  
 
