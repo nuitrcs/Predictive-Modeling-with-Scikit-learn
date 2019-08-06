@@ -36,6 +36,22 @@ To know how to use the main algorithms needed for predictive modeling with pytho
 * How do I ensure that I'm building a model that will generalize to unseen data? 
 * Can I estimate how well my model is likely to perform on unseen data?
 
+### Schedule
+
+To achieve the objectives and get the above outcomes we divided the material into 7 sections. In each section we introduce the concepts, explain how to use them in scikit-learn and practice what we learned. 
+
+First day we will work from the following notebooks:
+* [Overview](https://github.com/nuitrcs/Predictive-Modeling-with-Scikit-learn/raw/master/ScikitOverview.ipynb)
+* [Loading Datasets](https://github.com/nuitrcs/Predictive-Modeling-with-Scikit-learn/raw/master/Dataset.ipynb)
+* [Preprocessing](https://github.com/nuitrcs/Predictive-Modeling-with-Scikit-learn/raw/master/Preprocessing.ipynb)
+* [Classification](https://github.com/nuitrcs/Predictive-Modeling-with-Scikit-learn/raw/master/Classification.ipynb)
+
+Second day we will tackle the following notebooks:
+* [Classification Metrics I part](https://github.com/nuitrcs/Predictive-Modeling-with-Scikit-learn/raw/master/Classification-Metrics.ipynb)
+* [Classification Metrics II part](https://github.com/nuitrcs/Predictive-Modeling-with-Scikit-learn/raw/master/Classification-Metrics-Contnd.ipynb)
+* [Regression](https://github.com/nuitrcs/Predictive-Modeling-with-Scikit-learn/raw/master/Regression.ipynb)
+
+
 
 ## Resources
 
