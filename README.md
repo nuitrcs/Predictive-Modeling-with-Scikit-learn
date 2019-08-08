@@ -47,9 +47,10 @@ First day we will work from the following notebooks:
 * [Classification](https://github.com/nuitrcs/Predictive-Modeling-with-Scikit-learn/raw/master/Classification.ipynb)
 
 Second day we will tackle the following notebooks:
-* [Classification Metrics I part](https://github.com/nuitrcs/Predictive-Modeling-with-Scikit-learn/raw/master/Classification-Metrics.ipynb)
-* [Classification Metrics II part](https://github.com/nuitrcs/Predictive-Modeling-with-Scikit-learn/raw/master/Classification-Metrics-Contnd.ipynb)
+* [Validating Classification Method](https://github.com/nuitrcs/Predictive-Modeling-with-Scikit-learn/raw/master/Classification-Validation.ipynb)
+* [Classification Metrics](https://github.com/nuitrcs/Predictive-Modeling-with-Scikit-learn/raw/master/Classification-Metrics.ipynb)
 * [Regression](https://github.com/nuitrcs/Predictive-Modeling-with-Scikit-learn/raw/master/Regression.ipynb)
+* [Conclusions](https://github.com/nuitrcs/Predictive-Modeling-with-Scikit-learn/raw/master/Conclusions.ipynb)
 
 
 
