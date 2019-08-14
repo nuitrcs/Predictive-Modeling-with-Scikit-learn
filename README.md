@@ -38,15 +38,15 @@ To know how to use the main algorithms needed for predictive modeling with pytho
 
 ### Schedule
 
-To achieve the objectives and get the above outcomes we divided the material into 7 sections. In each section we introduce the concepts, explain how to use them in scikit-learn and practice what we learned. 
+To achieve the objectives and get the above outcomes we divided the material into 8 sections. In each section we introduce the concepts, explain how to use them in scikit-learn and practice what we learned. 
 
-First day we will work from the following notebooks:
+First day the following notebooks are used:
 * [Overview](https://github.com/nuitrcs/Predictive-Modeling-with-Scikit-learn/raw/master/ScikitOverview.ipynb)
 * [Loading Datasets](https://github.com/nuitrcs/Predictive-Modeling-with-Scikit-learn/raw/master/Dataset.ipynb)
 * [Preprocessing](https://github.com/nuitrcs/Predictive-Modeling-with-Scikit-learn/raw/master/Preprocessing.ipynb)
 * [Classification](https://github.com/nuitrcs/Predictive-Modeling-with-Scikit-learn/raw/master/Classification.ipynb)
 
-Second day we will tackle the following notebooks:
+Second day the following notebooks are used:
 * [Validating Classification Method](https://github.com/nuitrcs/Predictive-Modeling-with-Scikit-learn/raw/master/Classification-Validation.ipynb)
 * [Classification Metrics](https://github.com/nuitrcs/Predictive-Modeling-with-Scikit-learn/raw/master/Classification-Metrics.ipynb)
 * [Regression](https://github.com/nuitrcs/Predictive-Modeling-with-Scikit-learn/raw/master/Regression.ipynb)
@@ -63,6 +63,8 @@ Additional Predictive Modeling-specific resources include:
 [Data Science Central](https://www.datasciencecentral.com) - A great online group of data science enthusiasts where you can find everything related to machine learning, predictive modeling, data science and more.
 
 [Coursera](https://www.coursera.org/), [edx](https://www.edx.org/), [udacity](https://www.udacity.com/) courses. I would strongly recommend Andrew Ng's machine learning courses. 
+
+[Kaggle](http://www.kaggle.com) should be your home for data science, the most well known for the data science competitions organized regularly.
 
 For preparing notebooks in this workshop I used notebooks from Scikit-Learn official Tutorials and workshops and from the following resources:
 
