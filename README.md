@@ -83,3 +83,18 @@ For preparing notebooks in this workshop I used notebooks from Scikit-Learn offi
 [http://www.biostat.washington.edu/~dwitten/](http://www.biostat.washington.edu/~dwitten/)
 
 [https://www.quora.com/Which-machine-algorithms-require-data-scaling-normalization](https://www.quora.com/Which-machine-algorithms-require-data-scaling-normalization)
+
+### Domain Specific Contents
+Looking for particular domains that participants needed I found the following interesting blogs and remembered to post some links:
+
+- [Traning-Testing split blog](https://towardsdatascience.com/6-amateur-mistakes-ive-made-working-with-train-test-splits-916fabb421bb)
+which is part of [Towards Data Science Articles](http://towardsdatascience.com)
+
+- [Temporal Data Mining Blog](https://theophanomitsa.wordpress.com/category/temporal-data-mining/)
+
+- [Eamon Keogh](https://www.cs.ucr.edu/~eamonn/) - place to start your search related to time series research!
+
+- [Really nice overview of formulas for evaluation metrics](https://spark.apache.org/docs/2.3.0/mllib-evaluation-metrics.html)
+
+
+
