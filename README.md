@@ -62,6 +62,8 @@ Additional Predictive Modeling-specific resources include:
 
 [Data Science Central](https://www.datasciencecentral.com) - A great online group of data science enthusiasts where you can find everything related to machine learning, predictive modeling, data science and more.
 
+[KDnuggets](https://www.kdnuggets.com/) - A great source of news anything ML and Data Science. 
+
 [Coursera](https://www.coursera.org/), [edx](https://www.edx.org/), [udacity](https://www.udacity.com/) courses. I would strongly recommend Andrew Ng's machine learning courses. 
 
 [Kaggle](http://www.kaggle.com) should be your home for data science, the most well known for the data science competitions organized regularly.
